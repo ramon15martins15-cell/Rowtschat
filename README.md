@@ -48,7 +48,7 @@ class Rowts:
 
         dados = {
             'nome': 'Ramon Martins dos Reis',
-            'pix': '021587776-48',
+            'pix': ramon15martins15@gmail.com
             'email': 'ramon15martins15@gmail.com'
         }
 
